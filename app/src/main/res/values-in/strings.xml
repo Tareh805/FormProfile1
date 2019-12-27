@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="Followers2">Pengikut</string>
+    <string name="Followers4">Pengikut</string>
+    <string name="Followers6">Pengikut</string>
+    <string name="txt_hobi">Pelancong</string>
+    <string name="txt_caption">Tetap Hidup Sederhana</string>
+    <string name="button">Colek Saya</string>
+</resources>

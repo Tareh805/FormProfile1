@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">1718033_Tareh</string>
+
+    <string name="Followers2">Followers</string>
+    <string name="Followers4">Followers</string>
+    <string name="Followers6">Followers</string>
+    <string name="txt_hobi">Travellers</string>
+    <string name="txt_caption">Keep It Life Simple</string>
+    <string name="button">Poke Me</string>
 </resources>
